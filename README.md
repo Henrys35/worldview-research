@@ -29,8 +29,8 @@
 需要 **Python 3.12 或更高**。macOS 自带的是 3.9，装不了，先自己装一个。
 
 ```bash
-git clone https://github.com/Henrys35/worldview-research-workbench.git
-cd worldview-research-workbench
+git clone https://github.com/Henrys35/worldview-research.git
+cd worldview-research
 python3.12 -m venv .venv
 ./.venv/bin/pip install -e .
 source .venv/bin/activate
